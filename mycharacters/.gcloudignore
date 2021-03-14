@@ -12,15 +12,13 @@
 # below:
 .git
 .gitignore
-venv/
-venv39/
-mycharacters/node_modules/
-mycharacters/public/
-mycharacters/src/
-mycharacters/babel.config.js
-mycharacters/package.json
-mycharacters/README.md
-mycharacters/yarn.lock
+node_modules/
+public/
+src/
+babel.config.js
+package.json
+README.md
+yarn.lock
 # Python pycache:
 __pycache__/
 # Ignored by the build system
